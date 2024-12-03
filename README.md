@@ -85,6 +85,7 @@ Kotlin 12.9%  █████████░░░░░░░░░░░░░
 ## Private and Public Repository 
 
 ```markdown
+Company Project 7
 Private 12
 Public 1
 ```
