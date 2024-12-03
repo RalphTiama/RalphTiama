@@ -49,6 +49,7 @@
           <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a></td>
           <td><a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="gitlab" width="30" height="30"/></a></td>
           <td><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/></a></td>
+          <td> <a href="https://brunoproject.io" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/114530840?v=4" alt="Bruno API" width="30" height="30"/></a></td>
           <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a></td>
           <td><a href="https://www.gerritcodereview.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gerrit_icon.svg/1200px-Gerrit_icon.svg.png" alt="gerrit" width="30" height="30"/></a></td>
         </tr>
